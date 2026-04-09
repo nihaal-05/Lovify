@@ -3,64 +3,107 @@
              "The Emotional OS for an Unbreakable Bond"
 ==========================================================================
 
-1. THE ENTRY & INVITE RITUAL (THE SOUL-LINK)
+1. THE DUAL-ENGINE CORE (THE BACKBONE)
 --------------------------------------------------------------------------
-- SOUL-PROFILER: AI quiz to build the partner’s "Soul Profile."
-- THE GOLDEN TICKET: Generate a 3D Golden Envelope to invite the partner.
-- PAIRING ANIMATION: When they join, hearts fuse in a Kintsugi flash.
-- LOGIN: 3D Heart splits like curtains to reveal the Dashboard.
+- ENGINE 1 (THE MOMENTUM ENGINE): Tracks daily activity—text frequency, 
+  call duration, GPS-tagged meetups, and "Soft-Pings."
+- ENGINE 2 (THE DEPTH ENGINE): Tracks emotional growth—completed 
+  Gratitude Rituals, resolved conflicts, and "Soul Quiz" alignments.
+- THE BOND SCORE: The real-time mathematical result of both engines, 
+  visualized as a 3D Liquid Heart wrapped in a blooming "Life-Vine."
 
-2. THE "LOVE CINEMA" (WEEKLY MOVIE RECAP)
+2. VISIBILITY & SOCIAL: PRIVATE VS. PUBLIC
 --------------------------------------------------------------------------
-- FEATURE: Every Sunday (or on-demand), the app generates a high-quality 
-  mini-movie of the week.
-- CONTENT: Clips from video calls, photos from the Memory Vault, 
-  "Top Flirty Lines," and total "Time Spent" milestones.
-- ANIMATION: A cinematic slideshow with "Parallax" effects on photos, 
-  synced to "Our Song" (Audio-Haptic Sync).
+- THE SANCTUARY (PRIVATE MODE): 
+  - Visual: Midnight Indigo & Frosted Glass. 
+  - Privacy: Zero external data sharing. The app is a locked vault.
+- THE HALL OF FLAME (PUBLIC MODE): 
+  - THE SCOREBOARD: A global/friend leaderboard ranking couples by 
+    their "Bond Score." Focuses on "Growth Streaks" rather than just chat.
+  - MILESTONE CARDS: Exportable 3D cards showing "100 Days Together" 
+    or "City Explorer" achievements to social media.
 
-3. VISIBILITY: PRIVATE VS. PUBLIC MODES
+3. THE DUAL-ENGINE BOND CALCULATOR
 --------------------------------------------------------------------------
-- PRIVATE MODE (The Sanctuary): 
-  - Visual: Midnight Indigo theme with frosted glass. 
-  - Privacy: Data stays strictly between the two users. No global ranking.
-- PUBLIC MODE (The Hall of Flame): 
-  - Feature: A global leaderboard where couples show off their 
-    "Bond Score" and "Adventure Path" progress.
-  - Social: Shared "Milestone Cards" can be exported to other platforms.
+- Engine 1 (Activity): Days, texts, calls, and GPS check-ins.
+- Engine 2 (Growth): Gratitude, values, and resolution points.
+- Visual: 3D Liquid Heart wrapped in a blooming "Life-Vine."
 
-4. DAILY RITUALS & COMMUNICATION
+4. THE IMMERSIVE MEMORY VAULT
+--------------------------------------------------------------------------
+- THE VAULT: A secure 3D archive of every photo, video, and "Secret Note."
+- THE STAR-MAP: Every memory is a star in a 3D constellation. 
+- WARP-DRIVE: Tapping a star triggers a "Warp" animation that flies you 
+  into the GPS location on the map where that memory was born.
+
+5. THE ENTRY & INVITE RITUAL
+--------------------------------------------------------------------------
+- SOUL-PROFILER: AI-driven "Soul Quiz" to build the partner profile.
+- THE GOLDEN TICKET: 3D Golden Envelope invite for the partner.
+- BIOMETRIC LOVE-LOCK: Heart-shaped FaceID/Fingerprint scan.
+- PAIRING: Hearts fuse in a Kintsugi flash; phones vibrate in sync.
+
+6. SENSORY & EXPLORATION
 --------------------------------------------------------------------------
 - NIGHT-TIME GRATITUDE: App locks until a "Thank You" note is swapped.
-- ROMANTIC CHAT: Jelly-physics bubbles, Secret Notes, and "The Dissolve."
-- SECRET LANGUAGE: Live "Golden Ink" symbols drawn on-screen.
-- IMMERSIVE VIDEO: Golden Hour filters and real-time Pulse Sync.
-
-5. CONFLICT & SAFETY MODULES
---------------------------------------------------------------------------
-- COOL-DOWN FREEZE: AI "Ices" the chat if tension is detected.
-- APOLOGY BRIDGE: Guided prompts to reconnect broken 3D paths.
-- THE ORACLE: AI bot for difficult relationship/life decisions.
-
-6. SENSORY & PRESENCE FEATURES
---------------------------------------------------------------------------
 - LONELY MODE: Soft Fog + Candlelight icon on the partner's screen.
+- SIZZLE CHALLENGES: Randomized mystery dares/quests to keep it spicy.
+- THE STAR-MAP: 3D Constellation of GPS-tagged memory stars.
+- ADVENTURE PATH: "Fog of War" city map that clears via check-ins.
+- INDECISION WHEEL: Physics-based spinner for daily choices.
 - SOFT-PING: Home-screen widget for non-verbal "thinking of you" taps.
-- THE STAR-MAP: 3D Constellation of GPS-tagged moments.
-- ADVENTURE PATH: Fog-of-war city map that clears as you explore.
 
-7. THE RESOLUTION & REDEMPTION (BREAK-UP)
+7. COMMUNICATION & PASSION (THE MASALA)
 --------------------------------------------------------------------------
-- THE MUTUAL SHATTER: Heart turns to Stone and SHATTERS into particles.
-- THE MEMORY MIRROR: A final sepia scroll of memories to prompt reflection.
-- THE KINTSUGI REBUILD: If both agree, the heart fuses back with 
-  Glowing Gold Seams, representing a stronger, repaired bond.
+- THE PET-NAME PROTOCOL: Custom names change the UI font "vibe."
+- FLAME MODE: UI "melts" and glows crimson during high-passion moments.
+- TELEPATHY PULSE: Double-thump haptics when both are in-app.
+- JELLY CHAT: Physics bubbles, "Golden Ink" drawing, and "The Dissolve."
+- TAP TO NUDGE: Send a physical-feeling "poke" to the partner's phone.
 
-8. TECHNICAL ARCHITECTURE
+8. CONFLICT, SAFETY & REDEMPTION
 --------------------------------------------------------------------------
-- Framework: Next.js 15 | Three.js | GSAP | Agora SDK.
-- AI Logic: Gemini API for Sentiment, Oracle, and Weekly Movie Scripting.
-- Haptics: WebVibration API for Pulse Sync and Movie Audio-Haptics.
+- COOL-DOWN FREEZE: AI "Ices" chat to stop arguments.
+- SYNC-BREATHING: Mandatory ritual to thaw the chat.
+- THE ORACLE: AI bot for relationship advice and tough decisions.
+- THE SHATTER & KINTSUGI: 24-hour break-up grace period with a 
+  sepia "Memory Mirror" and a golden-seam rebuilding animation.
+
+9. SENSORY & PRESENCE FEATURES
+--------------------------------------------------------------------------
+- LONELY MODE: Triggers "Soft Fog" and candlelight on partner's phone.
+- SOFT-PING: Home-screen widget for "Thinking of you" taps.
+- THE ORACLE: AI bot for difficult relationship/life decisions.
+- INDECISION WHEEL: Physics-based spinner for daily choices.
+
+10. THE LOVE CINEMA & DAILY RITUALS
+--------------------------------------------------------------------------
+- WEEKLY MOVIE: AI-curated cinematic recap of your best moments.
+- NIGHT-TIME GRATITUDE: App locks until a "Thank You" is swapped.
+- ADVENTURE PATH: "Fog of War" city map that clears via check-ins.
+- INDECISION WHEEL: Physics-based spinner for daily choices.
+
+11. THE RESOLUTION & REDEMPTION (BREAK-UP)
+--------------------------------------------------------------------------
+A. THE MUTUAL SHATTER
+   - Initiation: One user requests "Reset." Heart begins to flicker.
+   - Two-Key Rule: Both must confirm within 24 hours.
+   - Animation: Heart turns to stone, cracks, and SHATTERS into 
+     grey particles that fall to the screen floor.
+
+B. THE MEMORY MIRROR (REFLECTION)
+   - Visual: As the heart shatters, a sepia-toned recap of their 
+     memories scrolls in the background as a final "Wait" prompt.
+
+C. THE KINTSUGI REBUILD
+   - Trigger: Both users press "Rebuild" during the grace period.
+   - Animation: Grey fragments glow with gold light and fly back 
+     together, fusing the heart with Glowing Gold Seams.
+
+12. TECHNICAL ARCHITECTURE
+--------------------------------------------------------------------------
+- Stack: Next.js 15, Three.js (R3F), GSAP, Agora SDK, Gemini AI.
+- Haptics: WebVibration API for Pulse, Nudge, and Telepathy.
 
 ==========================================================================
                LOVIFY: TRANSFORMING LOVE INTO A DIGITAL ARTFORM.
