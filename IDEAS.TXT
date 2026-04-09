@@ -1,85 +1,91 @@
  ==========================================================================
-                 LOVIFY: THE MASTER RELATIONSHIP BLUEPRINT
-             "A Digital Revolution for Connection & Growth"
+                 LOVIFY: THE ULTIMATE MASTER BLUEPRINT
+             "The Emotional OS for an Unbreakable Bond"
 ==========================================================================
 
-1. THE ENTRY: AUTHENTICATION & ONBOARDING
+1. THE ENTRY & INVITE RITUAL (THE SOUL-LINK)
 --------------------------------------------------------------------------
-A. THE HEART-BREAK LOGIN
-   - Visual: A high-fidelity, glowing 3D Heart in center screen.
-   - Success Animation: The heart vertical fractures and slides apart
-     like curtains to reveal the Dashboard.
+A. THE SOUL-PROFILER (SOLO START)
+   - Action: User takes the AI "Soul Quiz" and sets partner's birthday.
+   - Animation: A 3D Golden Envelope emerges as the "Invite."
 
-B. THE SOUL-PROFILER (ONBOARDING)
-   - Action: AI-driven quiz profiling the partner's soul and birthday.
-   - Animation: A "Progress Vine" blooms across the bottom.
+B. THE INVITATION & PAIRING
+   - Action: User sends a "Golden Ticket" link to the partner.
+   - Animation: When the partner joins, both phones vibrate in sync. 
+     Two half-hearts fuse in a Kintsugi flash, unlocking the Dashboard.
 
-2. CONFLICT & SAFETY MODULES
+C. THE HEART-BREAK LOGIN (DAILY RE-ENTRY)
+   - Visual: 3D Heart splits like curtains to reveal the shared world.
+
+2. DAILY RITUALS & GAMIFICATION
+--------------------------------------------------------------------------
+A. THE NIGHT-TIME "THANK YOU" RITUAL
+   - Feature: Every night, the app locks non-essential features until 
+     both partners send a "Gratitude Note" to each other.
+   - Animation: Two glowing orbs travel across the screen and merge 
+     into a "Gratitude Star" added to the Star-Map.
+   - Logic: This streak adds a massive multiplier to the Bond Score.
+
+B. THE DUAL-ENGINE BOND CALCULATOR
+   - Engine 1 (Activity): Days, texts, calls, and GPS check-ins.
+   - Engine 2 (Growth): Gratitude streaks, values, and resolution points.
+   - Visual: 3D Liquid Heart wrapped in a blooming "Life-Vine."
+
+3. THE COMMUNICATION SUITE (CHATS & CALLS)
+--------------------------------------------------------------------------
+A. THE ROMANTIC CHAT ENGINE
+   - Jelly Physics: Bubbles that bounce/wobble.
+   - Secret Language: Live "Golden Ink" hand-drawn symbols.
+   - Secret Notes: Blurred messages (Tap to reveal).
+   - Incognito Wipe: "The Dissolve" (Messages turn to dust).
+
+B. IMMERSIVE VIDEO CALLS
+   - Cinematic Filters: Golden Hour & Candlelight shaders.
+   - Pulse Sync: Real-time haptic heartbeat sharing.
+
+4. CONFLICT MANAGEMENT & SAFETY
 --------------------------------------------------------------------------
 A. THE "COOL-DOWN" FREEZE (AI DETECTION)
-   - Feature: AI monitors chat for high-tension sentiment or aggression.
-   - Action: Chat "Freezes" with a blue ice effect. Both users must 
-     complete a "Sync-Breathing" exercise to unlock.
+   - Action: AI detects aggression and "Ices" the chat bubbles.
+   - Resolution: Mandatory "Sync-Breathing" exercise to unlock.
 
 B. THE APOLOGY BRIDGE
-   - Action: Guided "I feel..." prompts to resolve lingering tension.
+   - Action: Guided "I feel..." prompts to connect broken paths.
 
-3. THE DISSOLUTION PROTOCOL (THE BREAK-UP)
+5. SENSORY & PRESENCE FEATURES
 --------------------------------------------------------------------------
-A. THE FINALITY SHATTER
-   - Initiation: One user requests a Reset; Heart begins to flicker.
-   - The Two-Key Rule: Both must confirm within 24 hours.
-   - Animation: The heart turns to Cold Stone, cracks, and SHATTERS into 
-     grey particles that fall and dissolve into smoke.
+- LONELY MODE: Triggers "Soft Fog" and candlelight on partner's phone.
+- SOFT-PING: Home-screen widget for "Thinking of you" taps.
+- THE ORACLE: AI bot for difficult relationship/life decisions.
+- INDECISION WHEEL: Physics-based spinner for daily choices.
 
-B. THE MEMORY MIRROR (THE LAST GLANCE)
-   - Interaction: As the heart shatters, the background reveals a 
-     faded, sepia-toned version of the "Memory Vault."
-   - Action: A final auto-generated message appears: "Before you go, 
-     remember the 452 moments you built together. Is this truly the end?"
-   - Visual: Highlights of their highest "Bond Score" moments and most 
-     visited "Meetup Places" scroll slowly in the background.
-
-4. THE RECONCILIATION & REBUILDING
+6. THE IMMERSIVE MEMORY VAULT & RECAPS
 --------------------------------------------------------------------------
-A. THE REBUILD REQUEST
-   - Feature: If both users hesitate or log back in within a "Grace 
-     Period," they can trigger a "Rebuild."
-   - Action: An auto-generated "Rebuild Message" is sent, showcasing a 
-     randomized "Perfect Memory" from their Vault to spark nostalgia.
+- THE STAR-MAP: 3D Constellation of moments (Name + GPS + Date).
+- THE WEEKLY RECAP: Mini-movie of "Time Spent" and "Top Flirty Lines."
+- BIRTHDAY ENGINE: 1-week countdown with "Gift Alchemist" ideas.
+- ADVENTURE PATH: "Fog of War" city map that clears as you explore.
 
-B. THE REBUILDING ANIMATION (THE HEALING)
-   - Trigger: Both users press "Rebuild" simultaneously.
-   - Animation: The grey stone fragments on the floor begin to glow 
-     with gold light (Kintsugi style). They fly back together, 
-     fusing the heart with glowing gold seams.
-   - Result: The Bond Score starts at a "Grace Level," and a new 
-     "Growth Vine" begins to wrap around the repaired heart.
-
-5. THE IMMERSIVE MEMORY VAULT
+7. THE RESOLUTION & REDEMPTION (BREAK-UP)
 --------------------------------------------------------------------------
-- THE STAR-MAP: Every memory (Name + Location + Date) is a star.
-- THE JOURNEY: Tapping a star triggers a "Warp Speed" transition to 
-  the 3D map location where that moment happened.
+A. THE MUTUAL SHATTER
+   - Initiation: One user requests "Reset." Heart begins to flicker.
+   - Animation: Heart turns to Stone and SHATTERS into grey particles.
 
-6. CORE FEATURE CATALOG (RECAP)
---------------------------------------------------------------------------
-FEATURE              | ACTION                   | ANIMATION EFFECT
----------------------|--------------------------|-------------------------
-PULSE SYNC           | Real-time Heartbeat.     | Haptic sync + Pulsing Aura.
-LONELY MODE          | "I miss you" signal.     | Warm Fog + Candlelight icon.
-Gift Alchemist       | AI-Gift curator.         | 3D Unboxing Pop + Confetti.
-Adventure Path       | City exploration map.    | "Fog of War" clears to color.
-Oracle AI            | Decision/Advice bot.     | Pulsing Nebula Chat-Bot.
-Birthday Engine      | 1-week gift reminder.    | Confetti & Balloon overlays.
+B. THE MEMORY MIRROR (REFLECTION)
+   - Visual: Sepia-toned memory scroll during the 24-hour grace period.
 
-7. TECHNICAL REQUIREMENTS
+C. THE KINTSUGI REBUILD
+   - Trigger: Both users press "Rebuild" during the grace period.
+   - Animation: Stone fragments fuse back together with Glowing Gold Seams.
+
+8. TECHNICAL ARCHITECTURE
 --------------------------------------------------------------------------
-- Framework: Next.js 15 + Tailwind CSS.
-- 3D Engine: Three.js (R3F) for the Shatter/Rebuild physics.
-- Sentiment AI: NLP for Conflict Detection and Rebuild messaging.
-- Real-time: Supabase (Real-time DB) for the "Simultaneous Press" logic.
+- Framework: Next.js 15 | Three.js | GSAP
+- Real-time: Supabase & Agora SDK (Video/Audio)
+- AI: Gemini API (Sentiment & Oracle)
+- Haptics: WebVibration API (Pulse Sync)
 
 ==========================================================================
-               LOVIFY: THE REVOLUTION IS COMPLETE.
+               LOVIFY: TRANSFORMING LOVE INTO A DIGITAL ARTFORM.
 ==========================================================================
