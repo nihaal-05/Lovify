@@ -1,90 +1,93 @@
-==========================================================================
-                PROJECT LOVIFY: THE STRATEGIC BLUEPRINT
-             "A Digital Revolution for Modern Relationships"
+ ==========================================================================
+                 LOVIFY: THE COMPLETE RELATIONSHIP OS
+             "A Digital Revolution for Connection & Growth"
 ==========================================================================
 
-1. CORE CONCEPT & IDENTITY
---------------------------------------------------------------------------
-Name: Lovify
-Mission: To provide a high-end, animated, and private ecosystem for 
-         couples to grow, communicate, and gamify their bond.
-Visual Aesthetic: Glassmorphism, soft pastels (Rose, Cream, Deep Crimson), 
-                  and high-fidelity 3D physics-based animations.
-
-2. THE ENTRY EXPERIENCE (USER JOURNEY)
+1. THE ENTRY: AUTHENTICATION & ONBOARDING
 --------------------------------------------------------------------------
 A. THE HEART-BREAK LOGIN
-   - Visual: A large, glowing 3D heart in the center of the screen.
-   - Action: Upon successful login, the heart physically splits into two.
-   - Animation: Using GSAP/Framer Motion, the halves rotate and slide
-     to the edges like curtains, revealing the inner dashboard.
-   - Fail-Safe: If login fails, the heart shakes ("No") and dims to grey.
+   - Visual: A high-fidelity, glowing 3D Heart (Three.js) in center screen.
+   - Interaction: User enters credentials.
+   - Success Animation: The heart develops a vertical fracture. Using 
+     GSAP, the two halves rotate outward and slide to the screen edges, 
+     acting as curtains that reveal the main Dashboard.
+   - Fail Animation: Heart shakes (haptic feedback) and dims to grey.
 
 B. THE SOUL-PROFILER (ONBOARDING)
-   - Step 1: Selection of identity (He/She/They) with animated avatars.
-   - Step 2: Interactive AI Quiz. User answers questions about their 
-     partner (Love Language, favorite aesthetic, hobbies, etc.).
-   - Visual: A "Progress Vine" grows and blooms at the bottom of the 
-     screen as the profile is completed.
+   - Steps: Select "He/She/They" -> Enter Partner Birthday.
+   - Interaction: An AI-driven chat quiz profiling the partner's soul.
+   - Animation: A "Progress Vine" grows and blooms flowers across the 
+     bottom of the screen as questions are completed.
 
-3. DUAL-MODE PRIVACY ARCHITECTURE
+2. THE CENTRAL HUB (DASHBOARD)
 --------------------------------------------------------------------------
-A. PUBLIC MODE (COMPETITION)
-   - Feature: Hall of Flame (Leaderboard).
-   - Logic: Couples compete globally based on their "Bond Score."
-   - Visuals: Vibrant gold and glowing UI accents.
+A. THE DUAL-BOND CALCULATOR
+   - Engine 1 (Activity): Days + Chats + Calls + GPS Check-ins.
+   - Engine 2 (Growth): Gratitude Streaks + Values Aligned + Resolution.
+   - Main Visual: A 3D Liquid-filled Heart. Activity makes the liquid 
+     bubble; Growth makes a "Life-Vine" wrap around the exterior.
 
-B. PRIVATE MODE (GHOST MODE)
-   - Feature: Complete Cloaking. 
-   - Logic: All data is encrypted; couple is removed from leaderboards.
-   - Visuals: UI morphs into "Midnight Indigo" with soft silver accents.
+B. LONELY MODE (THE PRESENCE ALERT)
+   - Action: User taps "I feel lonely."
+   - Partner Animation: Their screen develops a soft "Warm Fog" and a 
+     single flickering candle icon appears. The "Meetup Map" highlights 
+     cozy date spots nearby.
 
-4. THE "BOND SCORE" ALGORITHM
+3. ADVANCED BONDING FEATURES
 --------------------------------------------------------------------------
-The Bond Score is a real-time gamified representation of the relationship.
-Formula: Score = (Days * 10) + (ChatCount * 2) + (CallMins * 5) + (CheckIns * 50)
-
-Visual Representation: 
-- A central "Heart Container" on the dash with a Liquid Fill effect.
-- The "Love Liquid" sloshes and glows based on daily activity levels.
-
-5. KEY FEATURES & ANIMATION SPECIFICATIONS
---------------------------------------------------------------------------
-FEATURE              | DESCRIPTION              | ANIMATION EFFECT
+FEATURE              | ACTION                   | ANIMATION EFFECT
 ---------------------|--------------------------|-------------------------
-Memory Missing       | Timeline of milestones.   | 3D Constellation Star-Map.
-Gift Alchemist       | AI-curated gift finder.   | 3D vibrating "Unboxing" pop.
-Indecision Wheel     | Solves common arguments.  | Physics-based friction spin.
-Haptic Pulse         | "Thinking of You" tap.    | Screen ripple + Heartbeat vibe.
-Time Capsule         | Locked future messages.   | Translucent to Solid morph.
-Meetup Map           | Romantic location finder. | Heart-rate pulsing GPS pins.
-Flirty Ideas         | Daily relationship tips.  | Frosted glass "Scratch-off."
+Memory Vault         | Log moment + GPS + Name. | 3D Constellation Star-Map.
+PULSE SYNC           | Real-time Heartbeat.     | Haptic sync + Pulsing Aura.
+Soft-Ping            | Widget "thinking of you".| Ghost-ripple on screen.
+Gift Alchemist       | AI-Gift curator.         | 3D Unboxing Pop + Confetti.
+Indecision Wheel     | Solves daily arguments.   | Physics-based friction spin.
+Secret Language      | Hand-drawn symbols.      | Live "Golden Ink" draw-on.
+Adventure Path       | City exploration map.    | "Fog of War" clears to color.
+Oracle AI            | Difficult decision help. | Pulsing Nebula Chat-Bot.
 
-6. THE COMMUNICATION SUITE
+4. COMMUNICATION & PRIVACY
 --------------------------------------------------------------------------
-A. LOVIFY CHAT
-   - Physics: "Jelly" text bubbles that bounce when appearing.
-   - Special: "Secret Notes" that stay blurred until tapped by the partner.
+- LOVIFY CHAT: "Jelly Physics" bubbles + "Secret Notes" (Tap to unblur).
+- PEACE MODE (Veil): A misty overlay covers UI; stops all notifications.
+- INCOGNITO WIPE: Messages turn to dust and blow away (The Dissolve).
+- BIRTHDAY ENGINE: 1-week countdown begins; background rains confetti.
 
-B. ROMANTIC VIDEO CALLS
-   - Filters: Automatic "Golden Hour" or "Soft Candlelight" GLSL shaders.
-   - Sync: Shared "Watch Together" mode for the Memory Vault.
-
-7. TECHNICAL REQUIREMENTS (RECOMMENDED STACK)
+5. THE RESOLUTION MODULE (STRIFE)
 --------------------------------------------------------------------------
-- Frontend: Next.js 15 (React)
-- Animation: GSAP + Framer Motion + Three.js (React Three Fiber)
-- Styling: Tailwind CSS
-- Real-Time: Supabase (PostgreSQL + Realtime Channels)
-- Communication: Agora SDK (Voice/Video)
-- Haptics: WebVibration API
+A. THE APOLOGY BRIDGE
+   - Action: Triggered during conflict.
+   - Interaction: Both users must complete "I feel..." prompts.
+   - Animation: Two broken paths slowly move together to form a bridge. 
+     Once they touch, the chat unlocks.
 
-8. THE REVOLUTIONARY "LEGACY MODE"
+6. THE FINALITY: MUTUAL DISSOLUTION (BREAK-UP)
 --------------------------------------------------------------------------
-After a specific milestone (e.g., 5 years), the app compiles all logged 
-data, memories, and score peaks into a cinematic "Relationship Movie," 
-creating a digital heirloom that lasts forever.
+Lovify treats the end with respect. A breakup cannot be impulsive.
+
+A. THE INITIATION
+   - Action: One user requests a "Reset."
+   - Visual: The main 3D Heart begins to flicker and lose its color.
+
+B. THE TWO-KEY RULE
+   - Action: Both users must confirm the decision within a 24-hour window.
+
+C. THE SAD ANIMATION (THE END)
+   - Effect: Once both confirm, the heart turns to Cold Stone.
+   - Final Action: The stone heart develops deep cracks and SHATTERS.
+   - Animation: Using a physics-based particle system, the fragments 
+     fall to the bottom of the screen and dissolve into grey smoke.
+   - Result: All shared data is wiped or archived; Bond Score resets.
+
+7. TECHNICAL REQUIREMENTS
+--------------------------------------------------------------------------
+- Framework: Next.js 15 (React)
+- 3D/Animation: Three.js (R3F), GSAP, Framer Motion
+- Backend/Real-time: Supabase (Realtime Channels)
+- AI: Gemini API (Oracle/Sentiment Analysis)
+- Maps: Mapbox API (Memory Vault/Adventure Path)
+- Haptics: WebVibration API (Pulse Sync)
 
 ==========================================================================
-                END OF BLUEPRINT | PROPERTY OF LOVIFY
+               LOVIFY: TRANSFORMING LOVE INTO A DIGITAL ARTFORM.
 ==========================================================================
