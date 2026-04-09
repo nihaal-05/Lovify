@@ -1,0 +1,90 @@
+==========================================================================
+                PROJECT LOVIFY: THE STRATEGIC BLUEPRINT
+             "A Digital Revolution for Modern Relationships"
+==========================================================================
+
+1. CORE CONCEPT & IDENTITY
+--------------------------------------------------------------------------
+Name: Lovify
+Mission: To provide a high-end, animated, and private ecosystem for 
+         couples to grow, communicate, and gamify their bond.
+Visual Aesthetic: Glassmorphism, soft pastels (Rose, Cream, Deep Crimson), 
+                  and high-fidelity 3D physics-based animations.
+
+2. THE ENTRY EXPERIENCE (USER JOURNEY)
+--------------------------------------------------------------------------
+A. THE HEART-BREAK LOGIN
+   - Visual: A large, glowing 3D heart in the center of the screen.
+   - Action: Upon successful login, the heart physically splits into two.
+   - Animation: Using GSAP/Framer Motion, the halves rotate and slide
+     to the edges like curtains, revealing the inner dashboard.
+   - Fail-Safe: If login fails, the heart shakes ("No") and dims to grey.
+
+B. THE SOUL-PROFILER (ONBOARDING)
+   - Step 1: Selection of identity (He/She/They) with animated avatars.
+   - Step 2: Interactive AI Quiz. User answers questions about their 
+     partner (Love Language, favorite aesthetic, hobbies, etc.).
+   - Visual: A "Progress Vine" grows and blooms at the bottom of the 
+     screen as the profile is completed.
+
+3. DUAL-MODE PRIVACY ARCHITECTURE
+--------------------------------------------------------------------------
+A. PUBLIC MODE (COMPETITION)
+   - Feature: Hall of Flame (Leaderboard).
+   - Logic: Couples compete globally based on their "Bond Score."
+   - Visuals: Vibrant gold and glowing UI accents.
+
+B. PRIVATE MODE (GHOST MODE)
+   - Feature: Complete Cloaking. 
+   - Logic: All data is encrypted; couple is removed from leaderboards.
+   - Visuals: UI morphs into "Midnight Indigo" with soft silver accents.
+
+4. THE "BOND SCORE" ALGORITHM
+--------------------------------------------------------------------------
+The Bond Score is a real-time gamified representation of the relationship.
+Formula: Score = (Days * 10) + (ChatCount * 2) + (CallMins * 5) + (CheckIns * 50)
+
+Visual Representation: 
+- A central "Heart Container" on the dash with a Liquid Fill effect.
+- The "Love Liquid" sloshes and glows based on daily activity levels.
+
+5. KEY FEATURES & ANIMATION SPECIFICATIONS
+--------------------------------------------------------------------------
+FEATURE              | DESCRIPTION              | ANIMATION EFFECT
+---------------------|--------------------------|-------------------------
+Memory Missing       | Timeline of milestones.   | 3D Constellation Star-Map.
+Gift Alchemist       | AI-curated gift finder.   | 3D vibrating "Unboxing" pop.
+Indecision Wheel     | Solves common arguments.  | Physics-based friction spin.
+Haptic Pulse         | "Thinking of You" tap.    | Screen ripple + Heartbeat vibe.
+Time Capsule         | Locked future messages.   | Translucent to Solid morph.
+Meetup Map           | Romantic location finder. | Heart-rate pulsing GPS pins.
+Flirty Ideas         | Daily relationship tips.  | Frosted glass "Scratch-off."
+
+6. THE COMMUNICATION SUITE
+--------------------------------------------------------------------------
+A. LOVIFY CHAT
+   - Physics: "Jelly" text bubbles that bounce when appearing.
+   - Special: "Secret Notes" that stay blurred until tapped by the partner.
+
+B. ROMANTIC VIDEO CALLS
+   - Filters: Automatic "Golden Hour" or "Soft Candlelight" GLSL shaders.
+   - Sync: Shared "Watch Together" mode for the Memory Vault.
+
+7. TECHNICAL REQUIREMENTS (RECOMMENDED STACK)
+--------------------------------------------------------------------------
+- Frontend: Next.js 15 (React)
+- Animation: GSAP + Framer Motion + Three.js (React Three Fiber)
+- Styling: Tailwind CSS
+- Real-Time: Supabase (PostgreSQL + Realtime Channels)
+- Communication: Agora SDK (Voice/Video)
+- Haptics: WebVibration API
+
+8. THE REVOLUTIONARY "LEGACY MODE"
+--------------------------------------------------------------------------
+After a specific milestone (e.g., 5 years), the app compiles all logged 
+data, memories, and score peaks into a cinematic "Relationship Movie," 
+creating a digital heirloom that lasts forever.
+
+==========================================================================
+                END OF BLUEPRINT | PROPERTY OF LOVIFY
+==========================================================================
