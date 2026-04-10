@@ -3,6 +3,16 @@
              "The Emotional OS for an Unbreakable Bond"
 ==========================================================================
 
+1. THE ENTRY & INVITE RITUAL (THE SOUL-LINK)
+--------------------------------------------------------------------------
+- SOUL-PROFILER: AI-driven "Soul Quiz" and Birthday Setup.
+- THE GOLDEN TICKET: 3D Golden Envelope invite for the partner.
+- PAIRING: Hearts fuse in a Kintsugi flash upon link acceptance.
+- BIOMETRIC LOVE-LOCK: FaceID/Fingerprint entry with a heart-shaped 
+  filling animation during the scan.
+
+
+
 1. THE DUAL-ENGINE CORE (THE BACKBONE)
 --------------------------------------------------------------------------
 - ENGINE 1 (THE MOMENTUM ENGINE): Tracks daily activity—text frequency, 
